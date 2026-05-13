@@ -1,0 +1,36 @@
+# Modelos y checkpoints
+models/
+modelos/
+checkpoints/
+outputs/
+runs/
+wandb/
+
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.h5
+*.onnx
+*.pkl
+*.joblib
+
+# Datos pesados
+data/
+datasets/
+*.parquet
+*.jsonl
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
