@@ -1,0 +1,2 @@
+﻿model,status,start_time,end_time,exit_code,log_file,output_dir,submission
+"BSC-LT/MrBERT-es",FAILED,"2026-05-13 14:23:18","2026-05-13 14:23:18",2,"model_queue_20260513_142318\BSC-LT_MrBERT-es\train.log","model_queue_20260513_142318\BSC-LT_MrBERT-es","model_queue_20260513_142318\BSC-LT_MrBERT-es\submission_BSC-LT_MrBERT-es.csv"
